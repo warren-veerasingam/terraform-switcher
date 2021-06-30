@@ -20,6 +20,7 @@ src
 main
 build
 dist
+vendor
 
 .DS_Store
 
@@ -33,3 +34,4 @@ tfswitch*
 
 build-script.sh
 
+!hooks/*
